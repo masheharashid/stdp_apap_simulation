@@ -1,1 +1,1 @@
-# STDP_APAP_Simulation
+# STDP Simulation of Acetaminophen (APAP) Hepatotoxicity Effects on the Brain
